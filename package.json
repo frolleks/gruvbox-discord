@@ -1,0 +1,13 @@
+{
+  "name": "gruvbox-discord",
+  "version": "1.0.0",
+  "description": "A Discord theme based on the Gruvbox color scheme",
+  "scripts": {
+    "build": "sass index.scss dist/index.css"
+  },
+  "author": "Frolleks <frolleks@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
